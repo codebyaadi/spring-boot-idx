@@ -11,6 +11,7 @@
     # pkgs.nodejs_20
     # pkgs.nodePackages.nodemon
     pkgs.jdk21
+    pkgs.maven
   ];
   # Sets environment variables in the workspace
   env = {};
